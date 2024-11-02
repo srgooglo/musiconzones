@@ -1,0 +1,8 @@
+{
+	"required": true,
+	"package": "com.moz.mixin",
+	"compatibilityLevel": "JAVA_17",
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
